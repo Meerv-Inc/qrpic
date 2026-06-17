@@ -1,5 +1,9 @@
 # QRPic — QR Logo Error-Correction Analyzer
 
+[![Latest release](https://img.shields.io/github/v/release/Meerv-Inc/qrpic)](https://github.com/Meerv-Inc/qrpic/releases/latest)
+
+📥 **[Download the latest APK](https://github.com/Meerv-Inc/qrpic/releases/latest)**
+
 An Android app (Kotlin / Jetpack Compose) that photographs a QR code with a logo
 in its central "dead space" and computes **exactly how much of the QR code's
 Reed–Solomon error-correction budget the logo consumes** — and how much headroom
