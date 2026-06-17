@@ -52,8 +52,8 @@ ANDROID_HOME=~/Library/Android/sdk ./gradlew :app:testDebugUnitTest
 ANDROID_HOME=~/Library/Android/sdk ./gradlew :app:assembleRelease
 ```
 
-A prebuilt signed release APK is included at
-[`release/QRPic-v1.0-release.apk`](release/QRPic-v1.0-release.apk).
+A prebuilt signed release APK is attached to each GitHub release:
+[`qrpic-v1.0.apk`](https://github.com/Meerv-Inc/qrpic/releases/download/v1.0/qrpic-v1.0.apk).
 
 ### Release signing
 
